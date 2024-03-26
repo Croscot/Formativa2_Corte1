@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formativa2_Corte1</string>
+    <string name="lista_de_operaciones">Lista de operaciones</string>
+    <string name="resultado">Resultado</string>
+    <string name="digitaBase">Digita la base</string>
+    <string name="digitaExponente">Digita el exponente</string>
+    <string name="calcular_potencia">Calcular potencia</string>
+    <string name="digite_el_fraccionario_1">Digite el fraccionario 1</string>
+    <string name="digite_el_fraccionario_2">Digite el fraccionario 2</string>
+    <string name="calcular_fraccionarios">Calcular fraccionarios</string>
+    <string name="calcular_ecuacion">Calcular ecuacion cuadratica</string>
+    <string name="digita_el_valor_de_b">Digita el valor de b</string>
+    <string name="digita_el_valor_de_c">Digita el valor de c</string>
+    <string name="digita_el_valor_de_a">Digita el valor de a</string>
+    <string name="calcular">Calcular</string>
+</resources>
